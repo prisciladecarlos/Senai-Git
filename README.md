@@ -1,9 +1,9 @@
 # Senai-Git
                    
-  repositório do curso de git do senai
+ Repositório do curso de git do senai
 
- readme de exemplo
+ Fazendo uma alteração do readme
 
-lembrei do comando git: status           
+          
          
  
